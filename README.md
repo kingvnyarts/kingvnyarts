@@ -16,7 +16,7 @@
   <img align="center" alt="King-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="King-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="King-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="King-pic" height="150" style="border-radius:50px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/e8cf2d128235509.6152417a96e69.png?width=676&height=676">
+  <a href="https://www.kingvnyarts.site" target="_blank"><img align="center" alt="King-pic" height="30" style="border-radius:50px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/e8cf2d128235509.6152417a96e69.png?width=76&height=76"></a> 
   
   ![Snake animation](https://github.com/kingvnyarts/kingvnyarts/blob/main/snake.svg)
   
