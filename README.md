@@ -18,7 +18,7 @@
   <img align="center" alt="King-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <a href="https://www.kingvnyarts.site" target="_blank"><img align="center" alt="King-pic" height="30" style="border-radius:50px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/e8cf2d128235509.6152417a96e69.png?width=76&height=76"></a> 
   
-</div>
+</div><br/>
 
 <div align="center">
   <a href="https://github.com/kingvnyarts">
