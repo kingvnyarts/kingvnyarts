@@ -5,7 +5,7 @@
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCH3v7ieAodLfcis7FYWl1ww" target="_blank"><img src="https://img.shields.io/badge/YouTube-c400ff?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/kingvnyarts" target="_blank"><img src="https://img.shields.io/badge/-Instagram-c400ff?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/kingvnyarts" target="_blank"><img src="https://img.shields.io/badge/Twitch-c400ff?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/ghostvny" target="_blank"><img src="https://img.shields.io/badge/Twitch-c400ff?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://www.behance.net/kingvnyarts" target="_blank"><img src="https://img.shields.io/badge/Behance-c400ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
   <a href = "mailto:kingvnyarts@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c400ff?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kingvnyarts" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-c400ff?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
