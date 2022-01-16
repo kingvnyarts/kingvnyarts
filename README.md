@@ -20,12 +20,6 @@
   
 </div><br/>
 
-<div align="center">
-  <a href="https://github.com/kingvnyarts">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=kingvnyarts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingvnyarts&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 <div style="display: inline_block"><br>
   
     https://www.behance.net/kingvnyarts
