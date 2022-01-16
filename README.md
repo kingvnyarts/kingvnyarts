@@ -27,6 +27,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingvnyarts&repo=convoychat" />
 </a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingvnyarts&theme=dark&show_icons=true)
+
 <div style="display: inline_block"><br>
   
     https://www.behance.net/kingvnyarts
