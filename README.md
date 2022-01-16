@@ -19,8 +19,10 @@
   <a href="https://www.kingvnyarts.site" target="_blank"><img align="center" alt="King-pic" height="30" style="border-radius:50px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/e8cf2d128235509.6152417a96e69.png?width=76&height=76"></a> 
   
 </div><br/>
-<div style="background:rgb(114, 3, 255);" align="center">
+<div align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingvnyarts&theme=dark&show_icons=true)
+  
  </div>
 
 <div style="display: inline_block"><br>
