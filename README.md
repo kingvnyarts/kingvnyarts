@@ -21,10 +21,10 @@
 </div><br/>
 
 <a href="https://github.com/kingvnyarts/README.md">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingvnyarts&repo=kingsite" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingvnyarts&repo=README.md" />
 </a>
-<a href="https://github.com/kingvnyarts/README.md">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingvnyarts&repo=kingsite.git" />
+<a href="https://github.com/kingvnyarts/kingsite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingvnyarts&repo=kingsite" />
 </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingvnyarts&theme=dark&show_icons=true)
