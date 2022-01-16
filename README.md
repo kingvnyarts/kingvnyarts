@@ -21,7 +21,7 @@
 </div><br/>
 
 <a href="https://github.com/kingvnyarts/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingvnyarts&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingvnyarts&repo=READMI.md" />
 </a>
 <a href="https://github.com/kingvnyarts/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingvnyarts&repo=convoychat" />
