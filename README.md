@@ -20,16 +20,9 @@
   
 </div><br/>
 
-<a href="https://github.com/kingvnyarts/README.md">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingvnyarts&repo=README.md" />
-</a>
-<a href="https://github.com/kingvnyarts/kingsite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingvnyarts&repo=kingsite" />
-</a>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingvnyarts&theme=dark&show_icons=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kingvnyarts&repo=kingsite/tree/master#readme.md)](https://github.com/kingvnyarts/kingsite/tree/master#readme.md)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kingvnyarts&repo=kingsite](https://github.com/kingvnyarts/kingsite)
 
 <div style="display: inline_block"><br>
   
