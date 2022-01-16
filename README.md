@@ -20,10 +20,10 @@
   
 </div><br/>
 
-<a href="https://github.com/kingvnyarts/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingvnyarts&repo=READMI.md" />
+<a href="https://github.com/kingvnyarts/README.md">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingvnyarts&repo=README.md" />
 </a>
-<a href="https://github.com/kingvnyarts/convoychat">
+<a href="https://github.com/kingvnyarts/README.md">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingvnyarts&repo=convoychat" />
 </a>
 
