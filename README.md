@@ -23,7 +23,7 @@
 <a href="https://github.com/kingvnyarts/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingvnyarts&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/kingvnyarts/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingvnyarts&repo=convoychat" />
 </a>
 
