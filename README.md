@@ -21,7 +21,7 @@
 </div><br/>
 
 <a href="https://github.com/kingvnyarts/README.md">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingvnyarts&repo=kingsite />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingvnyarts&repo=kingsite" />
 </a>
 <a href="https://github.com/kingvnyarts/README.md">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingvnyarts&repo=kingsite.git" />
