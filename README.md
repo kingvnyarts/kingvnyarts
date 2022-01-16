@@ -22,8 +22,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingvnyarts&theme=dark&show_icons=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kingvnyarts&repo=kingsite.git](https://github.com/kingvnyarts)
-
 <div style="display: inline_block"><br>
   
     https://www.behance.net/kingvnyarts
